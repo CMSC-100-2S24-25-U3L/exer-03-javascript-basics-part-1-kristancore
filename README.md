@@ -2,4 +2,4 @@
 ○ Full Name: Kristan Louie Escarilla
 ○ Degree Program: BS Computer Science
 ○ What are your key takeaways from this exercise?
-My key takeaways from this exercise are the following: (1) how different ways of initializations (e.g. let, var) vary in terms of scope within the code; (2) functions can be declared in a different way such as in arrow notation; (3) semicolons aren't necessary as compared to C programming (but still is advisable).
+    My key takeaways from this exercise are the following: (1) how different ways of initializations (e.g. let, var) vary in terms of scope within the code; (2) functions can be declared in a different way such as in arrow notation; (3) semicolons aren't necessary as compared to C programming (but still is advisable).

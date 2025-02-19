@@ -1,3 +1,4 @@
+// sample run examples
 console.log(storePassword("John", "Pass1234", "Pass1234"));
 console.log(storePassword("John", "Pass123", "Pass12345")); 
 
